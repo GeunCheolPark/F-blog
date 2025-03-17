@@ -1,4 +1,16 @@
 {
-  "posts": [],
-  "updated_at": "2025-03-17T00:00:00Z"
+  "posts": [
+    {
+      "id": 1742250031321,
+      "title": "ㅇㄴㅇ",
+      "content": "ㄴㅇ",
+      "tags": [
+        "안녕"
+      ],
+      "date": "2025-03-17",
+      "views": 0,
+      "author": "GeunCheolPark"
+    }
+  ],
+  "updated_at": "2025-03-17T22:20:31.734Z"
 }
