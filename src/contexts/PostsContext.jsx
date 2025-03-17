@@ -54,6 +54,12 @@ export function PostsProvider({ children }) {
       // 현재 파일 정보 가져오기 (파일이 있는 경우)
       let sha = '';
       try {
+            console.log('1. 저장 시도 시작', {
+      owner: REPO_OWNER,
+      repo: REPO_NAME,
+      path: FILE_PATH
+            });
+        
         const { data } = await octokit.repos.getContent({
           owner: REPO_OWNER,
           repo: REPO_NAME,
