@@ -1,6 +1,17 @@
 {
   "posts": [
     {
+      "id": 1742250647036,
+      "title": "안녕안녕!",
+      "content": "히하하하하ㅏㅎ",
+      "tags": [
+        "하하하"
+      ],
+      "date": "2025-03-17",
+      "views": 0,
+      "author": "GeunCheolPark"
+    },
+    {
       "id": 1742250617420,
       "title": "안녕",
       "content": "안녕",
@@ -21,5 +32,5 @@
       "author": "GeunCheolPark"
     }
   ],
-  "updated_at": "2025-03-17T22:30:19.398Z"
+  "updated_at": "2025-03-17T22:30:47.239Z"
 }
